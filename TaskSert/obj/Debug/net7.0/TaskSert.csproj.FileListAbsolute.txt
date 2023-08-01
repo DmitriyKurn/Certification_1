@@ -1,0 +1,15 @@
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\bin\Debug\net7.0\TaskSert.exe
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\bin\Debug\net7.0\TaskSert.deps.json
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\bin\Debug\net7.0\TaskSert.runtimeconfig.json
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\bin\Debug\net7.0\TaskSert.dll
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\bin\Debug\net7.0\TaskSert.pdb
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.csproj.AssemblyReference.cache
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.AssemblyInfoInputs.cache
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.AssemblyInfo.cs
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.csproj.CoreCompileInputs.cache
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.dll
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\refint\TaskSert.dll
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.pdb
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\TaskSert.genruntimeconfig.cache
+C:\Users\Watslaw\Documents\Certificat\TASK\TaskSert\obj\Debug\net7.0\ref\TaskSert.dll
