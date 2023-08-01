@@ -29,4 +29,7 @@ string [] rez = new string [n];
   }
   return rez;
 }
+array(stringArray);
+Console.WriteLine($"Первоначальный массив: [{string.Join(", ", (stringArray))}]"); 
+Console.WriteLine($"Итоговый массив: [{string.Join(", ", selection(stringArray))}]");
 
